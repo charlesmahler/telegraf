@@ -1,8 +1,9 @@
 
 # Telegraf
 
-![Logo](assets/telegraf-logo.png "logo")
-
+<div align="center">
+  <img width="600" src="assets/telegraf-logo.png" alt="Telegraf Logo">
+</div>
 
 
 
